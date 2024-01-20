@@ -54,6 +54,7 @@ There was an upward sales trend as showned in 2019 sales transaction, from  $1.8
 ![Sales by year trend](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/89ba44bd-8cce-4661-ab72-2d63dee04091)
 
 Further drilled into Sales of January 2019 and January 2020, showed a sharp fall from S1.8 million to $8.7k for 2019 and 2020 respectively.
+This shows a fall of 99.5% from the previous year.
 
 ![Sales of January comparison](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/034dcd24-e262-4ed2-9f91-872794b6fa72)
 
