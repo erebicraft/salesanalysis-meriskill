@@ -1,8 +1,11 @@
-# Sales Analysis 2019 #
+# Sales Analysis 2019/ 2020 #
 ## Project Overview ##
-The project aimed to provide insights from the sales peroformance as at 2019. 
+The project aimed to provide insights from the sales peroformance as at 2019/ 2020. 
 The insight to be generated seek to identify the sales trend for the year under review which are needed 
 for answering vital questions in the  company for Improvement.
+
+
+![Dashboard 2019](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/28d265a9-4fde-4cd8-be07-010ce31c521b)
 
 ## Data Source ##
 The Dataset used for this project is a [sales.csv files](https://github.com/erebicraft/salesanalysis-meriskill/blob/main/Sales%20Data.csv)
@@ -87,3 +90,7 @@ Further drilled into Sales of January 2019 and January 2020, showed a sharp fall
 
 ## Recommendations ##
 Based on the analysis, we recommend the following:
+1.  Invest in marketing and promotions during the peak sales session to maximise revenue.
+2.  considering carrying out aggressive marketing in the second and third quarter will bw vital to as to increase sales during the said peroid.
+3.  Introduction of discount package to products with least quantity demand.
+4.  Implementing  city segementation strategy to target cities with products high demanded so as to increase revenue.
