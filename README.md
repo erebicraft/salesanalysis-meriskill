@@ -29,7 +29,7 @@ from Meriskill containing over 185,000 records and 10 fields. The Dataset is a s
   3. which are the top five selling products by count?
   4. Which are the top five cities by sales?
 ## Data Analysis ##
-Some of Revenue metrics and New measures used derived them
+Some of Revenue metrics and New measures used to derived them
 
 ![KPI ](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/1071bf99-769d-4535-9a65-8eddb8fbd96f)
 
