@@ -1,4 +1,5 @@
 # Sales Analysis 2019/ 2020 #
+
 ## Project Overview ##
 The project aimed to provide insights from the sales peroformance as at 2019/ 2020. 
 The insight to be generated seek to identify the sales trend for the year under review which are needed 
