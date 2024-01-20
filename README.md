@@ -4,8 +4,7 @@ The project aimed to provide insights from the sales peroformance as at 2019/ 20
 The insight to be generated seek to identify the sales trend for the year under review which are needed 
 for answering vital questions in the  company for Improvement.
 
-
-![Dashboard 2019](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/28d265a9-4fde-4cd8-be07-010ce31c521b)
+![Sales Analysis Dashboard ](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/8b11ab0e-69e6-48f6-8e00-9956d19b602f)
 
 ## Data Source ##
 The Dataset used for this project is a [sales.csv files](https://github.com/erebicraft/salesanalysis-meriskill/blob/main/Sales%20Data.csv)
