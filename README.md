@@ -91,6 +91,6 @@ Further drilled into Sales of January 2019 and January 2020, showed a sharp fall
 ## Recommendations ##
 Based on the analysis, we recommend the following:
 1.  Invest in marketing and promotions during the peak sales session to maximise revenue.
-2.  considering carrying out aggressive marketing in the second and third quarter will bw vital to as to increase sales during the said peroid.
+2.  carrying out aggressive marketing in the second and third quarter will be vital to as to increase sales during the said peroid.
 3.  Introduction of discount package to products with least quantity demand.
-4.  Implementing  city segementation strategy to target cities with products high demanded so as to increase revenue.
+4.  Implementing  city segementation strategy to target cities with products highly demanded so as to increase revenue.
