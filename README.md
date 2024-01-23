@@ -2,7 +2,7 @@
 
 ## Project Overview ##
 The project aimed to provide insights from the sales peroformance as at 2019/ 2020. 
-The insight to be generated seek to identify the sales trend for the year under review which are needed 
+The insights to be generated seek to identify the sales trend for the year under review which are needed 
 for answering vital questions in the  company for Improvement.
 
 ![Sales Analysis Dashboard ](https://github.com/erebicraft/salesanalysis-meriskill/assets/137629549/8b11ab0e-69e6-48f6-8e00-9956d19b602f)
